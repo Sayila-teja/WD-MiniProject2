@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(76, 147, 171);
+    color: black;
+    padding: 5px;
+    font-size:35px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+
+}
+footer{
+    background-color: rgb(164, 196, 100);
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    width: 100%;
+}
+.bg{
+    background-color: rgb(157, 179, 185);
+    background-size: cover;
+    width: 110vw;
+    margin-left: 120px;
+}
+.box{
+    width:80vw;
+    height: 18vh;
+    background-color: bisque;
+    margin: 30px;
+    padding: 20px;
+    margin-top: 65px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.Teja{
+    margin-left: 20px;
+    margin-top: 5px;
+    text-size-adjust: 200px;
+    
+}
+.image{
+    margin-left:;
+    height: 115px;
+    width: 220px;
+    border-radius: 20px;
+}
+.size{
+    height: px;
+}
+.box1{
+    width: 80vw;
+    height: 18vh;
+    background-color: bisque;
+    margin: 30px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -25px
+
+}
+/* .image2{ */
+    margin-left:;
+    height: 185px;
+    width: 4000px;
+    border-radius: 20px;
+    
+}
+/* .image1{ */
+    margin-left:;
+    height: 185px;
+    width: 2000px;
+    border-radius: 20px;
+}
+.y{
+    text-align: center;
+}
